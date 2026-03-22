@@ -1,0 +1,25 @@
+Backup created: /usr/local/backups/nginx_backup_2026-03-19.tar.gz
+nginx/
+nginx/uwsgi_params.default
+nginx/nginx.conf.default
+nginx/mime.types.default
+nginx/fastcgi_params
+nginx/scgi_params
+nginx/scgi_params.default
+nginx/fastcgi.conf.default
+nginx/fastcgi.conf
+nginx/fastcgi_params.default
+nginx/uwsgi_params
+nginx/koi-win
+nginx/mime.types
+nginx/koi-utf
+nginx/win-utf
+nginx/nginx.conf
+nginx/servers/
+www/
+www/index.html
+www/cgi-bin/
+www/cgi-bin/printenv
+www/cgi-bin/printenv.wsf
+www/cgi-bin/printenv.vbs
+www/cgi-bin/test-cgi
